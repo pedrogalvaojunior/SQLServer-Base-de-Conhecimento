@@ -53,6 +53,7 @@ Além de exemplos básicos voltados ao aprendizado da linguagem T-SQL, o acervo 
 
 O acervo contém exemplos compatíveis com diversas versões do Microsoft SQL Server:
 
+- SQL Server 2000
 - SQL Server 2005
 - SQL Server 2008
 - SQL Server 2012
