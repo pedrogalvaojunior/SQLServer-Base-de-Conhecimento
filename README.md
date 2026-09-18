@@ -1,4 +1,4 @@
-# SQL Server Base de conhecimento
+# SQL Server Base de Conhecimento
 
 > 📚 Base de conhecimento SQL Server
 >
@@ -6,7 +6,7 @@
 >
 > ✅ Conteúdo acumulado ao longo de anos de experiência profissional
 >
-> ✅ Compatível com SQL Server 2005 até SQL Server 2022
+> ✅ Compatível com SQL Server 2005 até SQL Server 2025
 >
 > ✅ Administração, Desenvolvimento, Performance, Monitoramento, Segurança e Recovery
 >
@@ -22,21 +22,23 @@ Além de exemplos básicos voltados ao aprendizado da linguagem T-SQL, o acervo 
 
 ---
 
-# Índice
+## Índice
 
-- #objetivos
-- #tecnologias-e-versões
-- #categorias-disponíveis
-- #destaques-do-repositório
-- #como-utilizar
-- #público-alvo
-- #estrutura-geral
-- #contribuições
-- #autor
+- Objetivos
+- Tecnologias e Versões
+- Categorias Disponíveis
+- Novidades SQL Server 2025
+- Destaques do Repositório
+- Como Utilizar
+- Público-Alvo
+- Estrutura Geral
+- Contribuições
+- Autor
+- Catálogo de Scripts
 
 ---
 
-# Objetivos
+## Objetivos
 
 - Compartilhar conhecimento técnico.
 - Preservar scripts desenvolvidos ao longo da carreira.
@@ -47,7 +49,7 @@ Além de exemplos básicos voltados ao aprendizado da linguagem T-SQL, o acervo 
 
 ---
 
-# Tecnologias e Versões
+## Tecnologias e Versões
 
 O acervo contém exemplos compatíveis com diversas versões do Microsoft SQL Server:
 
@@ -65,9 +67,9 @@ Alguns scripts utilizam funcionalidades específicas de determinadas versões.
 
 ---
 
-# Categorias Disponíveis
+## Categorias Disponíveis
 
-## Desenvolvimento
+### Desenvolvimento
 
 - Functions
 - Função
@@ -86,7 +88,7 @@ Alguns scripts utilizam funcionalidades específicas de determinadas versões.
 - Relacionamento
 - Tabela Derivada
 
-## Administração
+### Administração
 
 - Backup e Restore
 - TempDB
@@ -99,7 +101,7 @@ Alguns scripts utilizam funcionalidades específicas de determinadas versões.
 - Dependências
 - SQLCMD
 
-## Performance
+### Performance
 
 - Índices
 - Plano de Execução
@@ -109,7 +111,7 @@ Alguns scripts utilizam funcionalidades específicas de determinadas versões.
 - Wait Statistics
 - Estatísticas
 
-## Segurança
+### Segurança
 
 - Logins And Users
 - Application Roles
@@ -118,21 +120,21 @@ Alguns scripts utilizam funcionalidades específicas de determinadas versões.
 - Criptografia
 - Segurança
 
-## Monitoramento
+### Monitoramento
 
 - Auditoria
 - Events
 - WhoIsActive
 - Alerts
 
-## Recuperação e Troubleshooting
+### Recuperação e Troubleshooting
 
 - Transaction Log
 - Entendendo o Transaction Log
 - Recuperação de Dados
 - Trace Flags
 
-## Recursos Avançados
+### Recursos Avançados
 
 - Broker
 - Linked Server
@@ -143,9 +145,47 @@ Alguns scripts utilizam funcionalidades específicas de determinadas versões.
 
 ---
 
-# Destaques do Repositório
+## Novidades SQL Server 2025
 
-Entre os diversos conteúdos disponíveis, destacam-se:
+A base de conhecimento passou a contemplar exemplos dos novos recursos introduzidos no SQL Server 2025.
+
+### JSON
+
+- Tipo de Dados JSON
+- JSON_ARRAY
+- JSON_OBJECT
+- JSON_CONTAINS
+- JSON_PATH_EXISTS
+- JSON Path Wildcards
+- OPENJSON com Tipo JSON
+- Atualizações Parciais em JSON
+- Índices JSON
+- Validação de Documentos JSON
+
+### VECTOR e Inteligência Artificial
+
+- Tipo de Dados VECTOR
+- Conversão para VECTOR
+- Conversão de VECTOR para JSON
+- Variáveis VECTOR
+- Vetores Float16
+- Inserção de Embeddings
+- Busca Vetorial de Documentos
+- Busca por Similaridade
+- Busca Híbrida
+- Catálogo Vetorial de Produtos
+
+### Expressões Regulares
+
+- REGEXP_COUNT
+- REGEXP_LIKE
+- REGEXP_REPLACE
+- REGEXP_SUBSTR
+- Regular Expressions
+
+---
+
+## Destaques do Repositório
 
 ### Administração de Banco de Dados
 
@@ -190,19 +230,19 @@ Entre os diversos conteúdos disponíveis, destacam-se:
 
 ---
 
-# Como Utilizar
+## Como Utilizar
 
 Antes da execução de qualquer script:
 
-1. Leia o código atentamente.
-2. Verifique a compatibilidade com sua versão do SQL Server.
-3. Entenda o objetivo do script.
-4. Execute inicialmente em ambiente de homologação.
-5. Evite utilizar diretamente em produção sem validação prévia.
+- Leia o código atentamente.
+- Verifique a compatibilidade com sua versão do SQL Server.
+- Entenda o objetivo do script.
+- Execute inicialmente em ambiente de homologação.
+- Evite utilizar diretamente em produção sem validação prévia.
 
 ---
 
-# Público-Alvo
+## Público-Alvo
 
 Este material foi desenvolvido para:
 
@@ -212,14 +252,14 @@ Este material foi desenvolvido para:
 - DBAs
 - Professores
 - Pesquisadores
-- Profissionais de tecnologia
+- Profissionais de Tecnologia
 
 ---
 
-# Estrutura Geral
+## Estrutura Geral
 
 ```text
-Scripts
+SQLServer-Base-de-Conhecimento
 │
 ├── Administração
 ├── Desenvolvimento
@@ -229,12 +269,20 @@ Scripts
 ├── Recovery
 ├── Troubleshooting
 ├── Recursos Avançados
-└── Versionamento SQL Server
+├── SQL Server 2005
+├── SQL Server 2008
+├── SQL Server 2012
+├── SQL Server 2014
+├── SQL Server 2016
+├── SQL Server 2017
+├── SQL Server 2019
+├── SQL Server 2022
+└── SQL Server 2025
 ```
 
 ---
 
-# Contribuições
+## Contribuições
 
 Sugestões, melhorias e correções são sempre bem-vindas.
 
@@ -242,21 +290,26 @@ Caso encontre alguma melhoria ou deseje compartilhar conhecimento adicional, fiq
 
 ---
 
-# Autor
+## Autor
 
 **Pedro Antonio Galvão Junior**
 
-SQL Server Professional | Professor | Pesquisador
+SQL Server Professional • Professor • Pesquisador
 
 GitHub:
 https://github.com/pedrogalvaojunior
 
 ---
 
-# 📖 [Catálogo de Scripts](CATALOGO.md)
+## 📖 Catálogo de Scripts
+
+Para consultar a estrutura detalhada do acervo:
+
+➡️ **[CATALOGO.md](CATALOGO.md)**
+
 ---
 
-# Observação
+## Observação
 
 Os scripts disponibilizados possuem finalidade educacional, técnica e de apoio profissional.
 
