@@ -1,15 +1,3 @@
-![Badge](https://ds.io/badge/SQL%20Server-Knowledge%20Base-blue
-
-![Badge](https://img.o/badge/Version-2000%20--%202025-green
-
-![Badge](https://img.shields.Categories-90%2B-orange
-
-![Badge/img.shields.io/badge/Files-1530%2B-yellow
-
-![Badge/img.shields.io/badge/T--SQL-Scripts-red
-
-![Badge](https://img.shields.io/badge/Status-Active
-
 # SQL Server Base de Conhecimento
 
 > 📚 Base de conhecimento SQL Server
