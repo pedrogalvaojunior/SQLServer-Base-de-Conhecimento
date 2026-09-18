@@ -60,12 +60,12 @@ A base de conhecimento reúne estudos, experimentos, exemplos práticos, projeto
 | Segurança | ⭐⭐⭐⭐ |
 | Query Store | ⭐⭐⭐⭐ |
 | XML | ⭐⭐⭐⭐ |
+| JSON Avançado | ⭐⭐⭐⭐ |
+| Inteligência Artificial e Busca Vetorial | ⭐⭐⭐⭐ |
+| Expressões Regulares (REGEXP) | ⭐⭐⭐⭐ |
 | Service Broker | ⭐⭐⭐ |
 | Spatial Data | ⭐⭐⭐ |
 | Memory Optimized Data | ⭐⭐⭐ |
-| IA e Busca Vetorial | ⭐⭐⭐⭐ |
-| JSON Avançado | ⭐⭐⭐⭐ |
-| Expressões Regulares | ⭐⭐⭐⭐ |
 
 ---
 
