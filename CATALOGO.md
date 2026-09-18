@@ -9,9 +9,11 @@ A base de conhecimento reúne estudos, experimentos, exemplos práticos, projeto
 # Dimensão do Acervo
 
 - 📂 Mais de 90 categorias técnicas
-- 📄 Mais de 1.500 arquivos
-- 💾 Compatível com SQL Server 2005 até SQL Server 2022
+- 📄 Mais de 1.5030 arquivos
+- 💾 Compatível com SQL Server 2000 até SQL Server 2025
 - 📚 Conteúdo básico, intermediário e avançado
+- 🤖 Inteligência Artificial Aplicada ao SQL Server
+- 🔎 Busca Vetorial e Pesquisa Semântica
 - 🔍 Administração de Banco de Dados
 - ⚡ Performance Tuning
 - 📈 Monitoramento e Troubleshooting
@@ -28,7 +30,7 @@ A base de conhecimento reúne estudos, experimentos, exemplos práticos, projeto
 
 | Categoria | Quantidade Aproximada |
 |------------|------------:|
-| Desenvolvimento T-SQL | 250+ |
+| Desenvolvimento T-SQL | 260+ |
 | Administração SQL Server | 300+ |
 | Performance Tuning | 180+ |
 | Monitoramento e Diagnóstico | 120+ |
@@ -38,7 +40,7 @@ A base de conhecimento reúne estudos, experimentos, exemplos práticos, projeto
 | Query Store | 25+ |
 | XML | 30+ |
 | Backup e Restore | 40+ |
-| Versões do SQL Server | 90+ |
+| Versões do SQL Server | 120+ |
 | Livros e Treinamentos | 150+ |
 | Projetos Especiais | 100+ |
 
@@ -61,6 +63,9 @@ A base de conhecimento reúne estudos, experimentos, exemplos práticos, projeto
 | Service Broker | ⭐⭐⭐ |
 | Spatial Data | ⭐⭐⭐ |
 | Memory Optimized Data | ⭐⭐⭐ |
+| IA e Busca Vetorial | ⭐⭐⭐⭐ |
+| JSON Avançado | ⭐⭐⭐⭐ |
+| Expressões Regulares | ⭐⭐⭐⭐ |
 
 ---
 
@@ -76,6 +81,8 @@ A base de conhecimento reúne estudos, experimentos, exemplos práticos, projeto
 8. Segurança
 9. Query Store
 10. Recuperação de Dados
+11. JSON Avançado
+12. IA e Busca Vetorial
 
 ---
 
@@ -89,6 +96,7 @@ A base de conhecimento reúne estudos, experimentos, exemplos práticos, projeto
 - Recovery
 - Recursos Avançados
 - Compatibilidade por Versão
+- SQL Server 2025
 - Projetos Especiais
 - Livros e Materiais de Estudo
 
@@ -397,6 +405,7 @@ A base de conhecimento reúne estudos, experimentos, exemplos práticos, projeto
 
 # Compatibilidade por Versão
 
+- SQL Server 2000
 - SQL Server 2005
 - SQL Server 2008
 - SQL Server 2012
@@ -408,7 +417,52 @@ A base de conhecimento reúne estudos, experimentos, exemplos práticos, projeto
 - SQL Server 2025
   
 ---
+---
 
+# SQL Server 2025
+
+## Novidades Implementadas
+
+A pasta SQL Server 2025 reúne aproximadamente 30 scripts desenvolvidos para estudar e demonstrar os novos recursos introduzidos na plataforma.
+
+## JSON
+
+- Tipo de Dados JSON
+- JSON_ARRAY
+- JSON_OBJECT
+- JSON_CONTAINS
+- JSON_PATH_EXISTS
+- JSON Path Wildcards
+- OPENJSON com Tipo JSON
+- Atualizações Parciais em JSON
+- Índices JSON
+- Validação de Documentos JSON
+
+## VECTOR e Inteligência Artificial
+
+- Tipo de Dados VECTOR
+- Conversão para VECTOR
+- Conversão de VECTOR para JSON
+- Variáveis VECTOR
+- Vetores Float16
+- Inserção de Embeddings
+- Busca Vetorial de Documentos
+- Busca por Similaridade
+- Busca Híbrida
+- Catálogo Vetorial de Produtos
+
+## Expressões Regulares
+
+- REGEXP_COUNT
+- REGEXP_LIKE
+- REGEXP_REPLACE
+- REGEXP_SUBSTR
+- Regular Expressions
+
+## Quantidade de Scripts
+
+- Aproximadamente 30 scripts dedicados aos novos recursos do SQL Server 2025.
+- 
 # Projetos Especiais
 
 ## Copa do Mundo 2022
@@ -471,5 +525,13 @@ Procedures de análise e acompanhamento de produção.
 ---
 
 # Última Atualização
+
+### Setembro de 2026
+
+- Inclusão da categoria SQL Server 2025.
+- Inclusão de aproximadamente 30 novos scripts.
+- Inclusão de exemplos sobre JSON, VECTOR, Embeddings e Busca Vetorial.
+- Atualização das estatísticas do acervo.
+- Revisão da documentação do projeto.
 
 Manter este catálogo atualizado conforme novas categorias, scripts e estudos forem adicionados ao repositório.
