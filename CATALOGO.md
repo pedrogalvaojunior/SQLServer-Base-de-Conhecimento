@@ -405,7 +405,8 @@ A base de conhecimento reúne estudos, experimentos, exemplos práticos, projeto
 - SQL Server 2017
 - SQL Server 2019
 - SQL Server 2022
-
+- SQL Server 2025
+  
 ---
 
 # Projetos Especiais
