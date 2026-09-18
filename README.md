@@ -1,9 +1,5 @@
-![Badge](https://img.shields.io/badge/SQL%20Server-Project-blue) ![Badge](https://img.shields.io/badge/Version-2000--2025-green) ![Badge](https://img.shields.io/badge/Status-Stable-success)
+# SQL Server Base de Conhecimento ![Badge](https://img.shields.io/badge/SQL%20Server-Project-blue) ![Badge](https://img.shields.io/badge/Version-2000--2025-green) ![Badge](https://img.shields.io/badge/Status-Stable-success)
 
-# SQL Server Base de Conhecimento
-
-> 📚 Base de conhecimento SQL Server
->
 > ✅ Centenas de scripts T-SQL
 >
 > ✅ Conteúdo acumulado ao longo de anos de experiência profissional
