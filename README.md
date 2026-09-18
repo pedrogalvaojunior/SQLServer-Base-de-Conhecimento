@@ -59,6 +59,7 @@ O acervo contém exemplos compatíveis com diversas versões do Microsoft SQL Se
 - SQL Server 2017
 - SQL Server 2019
 - SQL Server 2022
+- SQL Server 2025
 
 Alguns scripts utilizam funcionalidades específicas de determinadas versões.
 
